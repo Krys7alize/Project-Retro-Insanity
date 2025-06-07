@@ -1,6 +1,6 @@
 {
 	"Name": "Project Retro Insanity",
-	"Version": 1749260013,
+	"Version": 1749275695,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -420,7 +420,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"171"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1014,7 +1016,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				198
+				198,
+				197,
+				195
 			],
 			"ItemWhitelist": [
 				5,
@@ -1143,7 +1147,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"163"
+				"163",
+				"171"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -1289,8 +1294,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1455,7 +1459,11 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"33",
+				"85",
+				"111"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1668,6 +1676,7 @@
 			"SurvivorIndvPerkBans": [
 				"6",
 				"78",
+				"110",
 				"116",
 				"126"
 			],
@@ -1865,8 +1874,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1977,7 +1985,8 @@
 			"IndividualAddonBans": [
 				455,
 				457,
-				458
+				458,
+				453
 			],
 			"ItemWhitelist": [
 				5,
@@ -2034,7 +2043,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"171"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2088,13 +2099,13 @@
 		},
 		{
 			"Name": "The Cenobite",
-			"KillerNotes": "",
+			"KillerNotes":
+ "",
 			"IsDisabled": false,
 			"Map": [
 				0
 			],
-			"BalanceTiers":
- [
+			"BalanceTiers": [
 				0,
 				4,
 				5
@@ -2610,7 +2621,13 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				638,
+				635,
+				636,
+				637,
+				633
+			],
 			"ItemWhitelist": [
 				0,
 				5
@@ -2748,16 +2765,15 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"112",
 				"116",
 				"126"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks":
+ [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
-			"KillerWhitelistedComboPerks":
- [],
+			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				671,
@@ -2807,11 +2823,13 @@
 			],
 			"BalanceTiers": [
 				0,
-				6
+				4,
+				5
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				6
+				4,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
@@ -2897,7 +2915,8 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				713,
+				718,
+				717,
 				716
 			],
 			"ItemWhitelist": [
@@ -2956,6 +2975,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"163",
 				"244"
 			],
 			"KillerComboPerkBans": [],
@@ -2969,9 +2989,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				736,
 				737,
-				738
+				738,
+				735
 			],
 			"ItemWhitelist": [
 				5,
