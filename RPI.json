@@ -1,6 +1,6 @@
 {
 	"Name": "Project Retro Insanity",
-	"Version": 1749275695,
+	"Version": 1749275900,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3136,7 +3136,8 @@
 				773
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
