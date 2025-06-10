@@ -1,6 +1,6 @@
 {
 	"Name": "Project Retro Insanity",
-	"Version": 1749275900,
+	"Version": 1749527321,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -152,6 +152,8 @@
 				"37",
 				"38",
 				"39",
+				"279",
+				"280",
 				"44",
 				"261",
 				"50",
@@ -201,6 +203,8 @@
 				"36",
 				"38",
 				"39",
+				"279",
+				"280",
 				"44",
 				"51",
 				"54",
@@ -271,7 +275,6 @@
 				"36",
 				"38",
 				"39",
-				"279",
 				"280",
 				"61",
 				"69",
@@ -726,9 +729,9 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
-			"IndividualAddonBans":
- [
+			"AddonTiersBanned":
+ [],
+			"IndividualAddonBans": [
 				119
 			],
 			"ItemWhitelist": [
@@ -861,6 +864,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"6",
+				"24",
 				"116",
 				"126"
 			],
@@ -1147,8 +1151,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"163",
-				"171"
+				"171",
+				"213"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -1224,7 +1228,6 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"6",
 				"38",
 				"58",
 				"63",
@@ -1232,9 +1235,7 @@
 				"74",
 				"78",
 				"82",
-				"110",
-				"121",
-				"126"
+				"121"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -1410,15 +1411,15 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
+					"Addons":
+ [
 						1,
 						2,
 						3,
 						4
 					]
 				},
-				"Med-Kit":
- {
+				"Med-Kit": {
 					"Addons": []
 				},
 				"Toolbox": {
@@ -1675,6 +1676,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"6",
+				"24",
 				"78",
 				"110",
 				"116",
@@ -1973,6 +1975,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"6",
+				"24",
 				"116",
 				"126"
 			],
@@ -2093,14 +2096,14 @@
 				5,
 				6
 			],
-			"KillerOfferings": [
+			"KillerOfferings":
+ [
 				5
 			]
 		},
 		{
 			"Name": "The Cenobite",
-			"KillerNotes":
- "",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -2610,7 +2613,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"163",
+				"150",
 				"244"
 			],
 			"KillerComboPerkBans": [],
@@ -2687,6 +2690,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"6",
+				"24",
 				"110"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2768,9 +2772,9 @@
 				"116",
 				"126"
 			],
-			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks":
+			"SurvivorComboPerkBans":
  [],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -2980,6 +2984,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"24",
 				"63"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2991,7 +2996,7 @@
 			"IndividualAddonBans": [
 				737,
 				738,
-				735
+				736
 			],
 			"ItemWhitelist": [
 				5,
